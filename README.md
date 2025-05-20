@@ -1,0 +1,1 @@
+This is the code I used in [this blog post](https://geoalgo.github.io/Analyzing-youtube-comments-from-JD-Vance-speech/) where I analysed the comments on Youtube on a JD-Vance video on his Munich 2025 speech.
